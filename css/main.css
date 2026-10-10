@@ -4,9 +4,11 @@ body {
 
 }
 
+
 header, footer {
     background-color: red;
 }
+
 
 .site-title {
     color: purple;
