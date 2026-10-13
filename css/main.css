@@ -25,3 +25,7 @@ ul {
 .hobbies li:nth-child(odd) {
     background-color: blue;
 }
+
+nav ul {
+    list-style-type: none;
+}
