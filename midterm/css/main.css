@@ -26,11 +26,22 @@ header h1 {
 #article-image {
     float: left;
     width: 250px;
-    height: auto;
+    height: 300px;
     margin-right: 20px;
     margin-bottom: 10px;
 }
 
 body {
     color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+width: 800px;
+background-color: white;
+/* center block level element */
+margin: 0 auto;
 }
