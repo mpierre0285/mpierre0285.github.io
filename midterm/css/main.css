@@ -1,5 +1,5 @@
 body {
-    background-color: darkblue;
+    background-color: lightblue;
 }
 
 header {
@@ -29,4 +29,8 @@ header h1 {
     height: auto;
     margin-right: 20px;
     margin-bottom: 10px;
+}
+
+body {
+    color: black;
 }
