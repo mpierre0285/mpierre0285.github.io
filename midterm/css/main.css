@@ -46,60 +46,7 @@ background-color: white;
 margin: 0 auto;
 }
 
-body {
-    background-color: #b2d8d2;
-    font-family: Arial, sans-serif;
-}
-
 .contact {
     background-color: #d7ebe8;
     padding: 10px;
-}
-
-.contact h2 {
-    margin-top: 0;
-    font-size: 28px;
-}
-
-form {
-    border: 1px solid black;
-    padding: 16px;
-}
-
-form > label {
-    display: block;
-    margin: 18px 0 8px;
-}
-
-form > input,
-form textarea {
-    width: 100%;
-    box-sizing: border-box;
-    padding: 8px;
-    border: 1px solid #bbb;
-}
-
-form textarea {
-    height: 100px;
-}
-
-form p {
-    font-size: 22px;
-    margin-top: 20px;
-}
-
-.radio-options {
-    margin-bottom: 18px;
-}
-
-button {
-    padding: 12px;
-    background: transparent;
-    border: 1px solid black;
-    cursor: pointer;
-}
-
-footer {
-    text-align: right;
-    padding: 20px;
 }
