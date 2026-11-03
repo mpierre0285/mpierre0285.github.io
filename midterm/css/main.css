@@ -84,3 +84,8 @@ button {
     border: 1px solid black;
     cursor: pointer;
 }
+
+footer {
+    text-align: right;
+    padding: 20px;
+}
