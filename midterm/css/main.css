@@ -50,3 +50,8 @@ margin: 0 auto;
     background-color: #d7ebe8;
     padding: 10px;
 }
+
+.contact h2 {
+    margin-top: 0;
+    font-size: 28px;
+}
