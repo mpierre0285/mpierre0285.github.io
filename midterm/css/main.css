@@ -77,3 +77,10 @@ form textarea {
 form textarea {
     height: 100px;
 }
+
+button {
+    padding: 12px;
+    background: transparent;
+    border: 1px solid black;
+    cursor: pointer;
+}
